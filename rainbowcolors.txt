@@ -2,3 +2,4 @@ red
 orange
 yellow
 green
+Blue is the fifth color of the rainbow.
